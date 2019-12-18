@@ -7,4 +7,5 @@ for (const value of arr) {
     sumOfEvenNumbers+=value;
   }
 }
+
 console.log(sumOfEvenNumbers);
